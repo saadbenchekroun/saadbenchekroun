@@ -22,5 +22,5 @@ I'm a passionate software engineer specializing in AI, machine learning, and dat
 
 ## 📫 Let's Connect
 
-- LinkedIn: [SAAD BEN CHEKROUN]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/saad-ben-chekroun/))
+- LinkedIn: [SAAD BEN CHEKROUN](https://www.linkedin.com/in/saad-ben-chekroun/)
 - Email: [saadbenchekrun@gmail.com](mailto:saadbenchekrun@gmail.com)
