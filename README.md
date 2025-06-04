@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Saad Ben Chekroun</h1>
 <h3 align="center">AI Developer • Full-Stack Engineer • Industrial Tech Enthusiast</h3>
 
 <p align="center">
@@ -40,6 +40,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" alt="Your GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saadbenchekroun&show_icons=true&theme=github_dark" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadbenchekroun&theme=github-dark&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
