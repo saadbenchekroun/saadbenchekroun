@@ -1,5 +1,5 @@
 <h1 align="center">Saad Ben Chekroun</h1>
-<h3 align="center">AI Developer • Full-Stack Engineer • Industrial Tech Enthusiast</h3>
+<h3 align="center">AI & Full-Stack Developer • Industrial Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Conversational+AI+%F0%9F%A7%A3;AI-Accounting+Agents+%F0%9F%94%8A;AI+Industrial+Automation+%F0%9F%93%88;Large+Scale+AI+Agents+%F0%9F%9B%BD%EF%B8%8F" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ---
 
-#### Tech Stack
+## Tech Stack
 
 #### Languages
 <p align="center">
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge&logo=drizzle&logoColor=white"/>
 </p>
 
-### AI & ML
+#### AI & ML
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -66,14 +66,14 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saadbenchekroun&show_icons=true&theme=github_dark" alt="GitHub stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadbenchekroun&theme=github-dark&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
-### Connect
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-ben-chekroun/" target="_blank">
