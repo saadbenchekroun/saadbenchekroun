@@ -11,15 +11,7 @@
 
 #### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
-  <img src="https://img.shields.io/badge/Matlab-000000?style=for-the-badge&logo=MathWorks&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel_VBA-000000?style=for-the-badge&logo=microsoft-excel&logoColor=green"/>
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbenchekroun&layout=compact&theme=default" />
 </p>
 
 #### Frameworks & Libraries
